@@ -1,12 +1,3 @@
-/*
-    Problem: Best Time to Buy and Sell Stock
-
-    Approach: Brute Force
-
-    Check every possible pair of buying and selling days
-    and calculate the profit for each pair.
-*/
-
 #include <iostream>
 #include <vector>
 using namespace std;

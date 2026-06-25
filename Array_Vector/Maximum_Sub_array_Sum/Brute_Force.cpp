@@ -1,12 +1,3 @@
-/*
-    Maximum Subarray Sum - Brute Force Approach
-
-    Idea:
-    - Generate all possible subarrays.
-    - Calculate the sum of each subarray.
-    - Track the maximum sum encountered.
-*/
-
 #include<iostream>
 #include<vector>
 using namespace std;

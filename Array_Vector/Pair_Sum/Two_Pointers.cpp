@@ -1,10 +1,3 @@
-/*
-    Problem: Pair Sum
-    Approach: Two Pointers
-
-    Since the array is sorted, use two pointers
-    to find the target pair efficiently.
-*/
 #include<iostream>
 #include<vector>
 using namespace std;

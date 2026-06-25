@@ -1,15 +1,3 @@
-/*
-    Approach: Binary Exponentiation
-
-    Use the binary representation of the exponent
-    to compute the power efficiently.
-
-    - If the exponent is odd, multiply the result
-      by the current base.
-    - Square the base after each iteration.
-    - Divide the exponent by 2.
-*/
-
 #include <iostream>
 using namespace std;
 

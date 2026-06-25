@@ -1,10 +1,3 @@
-/*
-    Approach: Brute Force
-
-    Count the frequency of each element and
-    identify the element that appears more than n/2 times.
-*/
-
 #include <iostream>
 using namespace std;
 

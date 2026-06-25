@@ -1,11 +1,3 @@
-/*
-    Problem: Power Exponentiation
-
-    Approach: Brute Force
-    
-    Multiply the base by itself n times.
-*/
-
 #include <iostream>
 using namespace std;
 

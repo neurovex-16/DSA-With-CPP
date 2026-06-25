@@ -1,13 +1,3 @@
-/*
-    Problem: Pair Sum
-
-    Approach: Brute Force
-
-    Check every possible pair of elements and
-    return the indices of the pair whose sum
-    equals the target value.
-*/
-
 #include<iostream>
 #include<vector>
 using namespace std;

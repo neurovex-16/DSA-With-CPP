@@ -1,13 +1,3 @@
-/*
-    Optimal Approach: Boyer-Moore Voting Algorithm
-
-    Identify a candidate for the majority element
-    and verify it using a voting mechanism.
-
-    Time Complexity: O(n)
-    Space Complexity: O(1)
-*/
-
 #include <iostream>
 using namespace std;
 

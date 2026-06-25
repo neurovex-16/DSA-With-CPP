@@ -1,12 +1,3 @@
-/*
-    Problem: Best Time to Buy and Sell Stock
-
-    Approach: Optimized
-
-    Track the minimum stock price seen so far and
-    calculate the profit for each day.
-*/
-
 #include <iostream>
 #include <vector>
 using namespace std;

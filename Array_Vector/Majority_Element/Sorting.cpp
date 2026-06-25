@@ -1,14 +1,3 @@
-/*
-    Better Approach: Sorting
-
-    After sorting, the majority element will
-    always occupy the middle position of the array.
-
-    Time Complexity: O(n log n)
-    Space Complexity: O(1)
-*/
-
-
 #include <iostream>
 #include <algorithm>
 using namespace std;

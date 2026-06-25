@@ -1,4 +1,4 @@
-# Majority Element
+# Majority Element in an array
 
 ## Problem Statement
 

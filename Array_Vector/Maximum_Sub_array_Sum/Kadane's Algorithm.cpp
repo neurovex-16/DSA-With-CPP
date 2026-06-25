@@ -1,12 +1,3 @@
-/*
-    Kadane's Algorithm (Optimized Approach)
-
-    Observation:
-    A negative running sum cannot contribute to a future
-    maximum subarray. Therefore, if the running sum becomes
-    negative, reset it to zero and start a new subarray.
-*/
-
 #include<iostream>
 #include<vector>
 using namespace std;
