@@ -19,13 +19,13 @@ bool isValid(vector<int>& arr, int n, int m, int mindist) { //N
 }
 
 int allocateCows(vector<int>& arr, int n, int m) {
-    sort(arr.begin(), arr.end()); //nlogn
+    sort(arr.begin(), arr.end()); 
 
     int st = 1;
     int end = arr[n - 1] - arr[0];
     int ans = -1;
 
-    while (st <= end) { // log range *N
+    while (st <= end) {
         int mid = st + (end - st) / 2;
 
         if (isValid(arr, n, m, mid)) {
